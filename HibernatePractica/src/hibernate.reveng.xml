@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd">
+<hibernate-reverse-engineering>
+  <schema-selection match-catalog="ctj_db" match-schema="public"/>
+  <table-filter match-name="calle"/>
+  <table-filter match-name="direccion"/>
+  <table-filter match-name="maestro"/>
+  <table-filter match-name="persona"/>
+  <table-filter match-name="municipio_calle"/>
+  <table-filter match-name="municipio"/>
+</hibernate-reverse-engineering>
